@@ -21,7 +21,7 @@
           class="btn btn-success btn-sm align-left d-block"
           @click="clearLocalStorage"
         >
-          Очистить localStorage
+          Очистить список задач
         </button>
       </div>
 
